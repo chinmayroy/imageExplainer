@@ -1,7 +1,3 @@
-git add README.md .gitignore
-Image Explainer API
-This is a simple, lightweight Python web server built without any external frameworks. It provides a basic API endpoint to upload images.
-
 📂 Project Structure
 imageExplainer/
 ├── .venv/
@@ -30,11 +26,11 @@ cd imageExplainer
 
 Create and activate a virtual environment:
 
-# For macOS/Linux
+For macOS/Linux
 python3 -m venv .venv
 source .venv/bin/activate
 
-# For Windows
+For Windows
 python -m venv .venv
 .\.venv\Scripts\activate
 
