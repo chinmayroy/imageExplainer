@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Uploaded files
+# We don't want to commit user-uploaded content to the repository
+uploads/
+
+# IDE and editor configuration files
+.idea/
+.vscode/
+*.swp
+*.swo
